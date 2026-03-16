@@ -21,6 +21,9 @@ Use this page to:
 - Register for the certification exam
 - Check available exam dates and locations
 
+ For succinct overview of the exam:
+ https://www.youtube.com/watch?v=FbSvk2krtSk
+ 
 ---
 
 # IBM Quantum Learning Courses
