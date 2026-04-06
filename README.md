@@ -104,6 +104,8 @@ Study group discussion thread:
 
 https://discord.com/channels/1275388429231984640/1416016049958158426
 
+https://www.linkedin.com/pulse/how-i-prepared-qiskit-developer-v2x-certification-mazin-phd-emba-vkcce/?trackingId=dYPJTG3TQwu0C%2F1Qpx9DIA%3D%3D
+
 This thread includes:
 
 - preparation advice from people who already took the exam
